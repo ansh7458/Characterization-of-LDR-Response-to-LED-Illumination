@@ -4,10 +4,9 @@ This repository contains experimental data and analysis scripts for characterizi
 
 ## 📁 Contents
 
-- `LDR_EXP - RvsI_LDR - Sheet1.csv` — Measured LDR resistance vs LED current data.
+- `LDR_EXP.csv` — Measured LDR resistance vs LED current data.
 - `ldr_analysis.py` — Python script to fit a power-law model and plot results.
-- Plots: Resistance vs Current (linear scale), optional log–log fit.
-- LaTeX report sections (procedure, results, conclusion) — optional.
+- Plots: Resistance vs Current.
 
 ## 📊 Experiment Summary
 
