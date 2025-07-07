@@ -5,9 +5,6 @@ This repository contains experimental data and analysis scripts for characterizi
 ## 📁 Contents
 
 - `LDR_EXP.csv` — Measured LDR resistance vs LED current data.
-- `ldr_analysis.py` — Python script to fit a power-law model and plot results.
-- Plots: Resistance vs Current.
-
 ## 📊 Experiment Summary
 
 An LDR and a white LED were mounted inside a black PVC tube at a fixed 3 cm distance. The LED was powered with a variable external supply, and its current was measured directly. The corresponding resistance of the LDR was recorded using a digital multimeter.
